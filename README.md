@@ -1,10 +1,6 @@
 \# Deep Learning Smoke Detection for Drone-Based Surveillance
 
-
-
 A real-time \*\*YOLOv8-based smoke detection system\*\* designed for early wildfire detection using aerial drone imagery. The model detects \*\*Fire, Smoke, and Cloud\*\* to minimize false positives and support rapid emergency response.
-
-
 
 \---
 
@@ -12,23 +8,14 @@ A real-time \*\*YOLOv8-based smoke detection system\*\* designed for early wildf
 
 \## Project Overview
 
-
-
 Wildfires can spread rapidly before they are detected. This project leverages the \*\*YOLOv8 object detection framework\*\* to identify smoke and fire from aerial images captured by drones, enabling faster detection and response.
 
-
-
 The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and achieved \*\*76.87% precision\*\* while distinguishing between \*\*Fire, Smoke, and Cloud\*\*.
-
-
-
 \---
 
 
 
 \## Features
-
-
 
 \- Real-time smoke and fire detection
 
@@ -45,8 +32,6 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 \- Supports image and video inference
 
 \- Designed for aerial surveillance scenarios
-
-
 
 \---
 
@@ -78,8 +63,6 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 
 \## Dataset
 
-
-
 \- \*\*Total Images:\*\* 22,854 annotated images
 
 \- \*\*Classes:\*\*
@@ -98,15 +81,11 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 
 \- \*\*Annotations:\*\* Bounding boxes for object detection
 
-
-
 \---
 
 
 
 \## Model Architecture
-
-
 
 \- \*\*Framework:\*\* YOLOv8 (Ultralytics)
 
@@ -117,8 +96,6 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 \- \*\*Classes:\*\* Fire, Smoke, Cloud
 
 \- \*\*Training Strategy:\*\* Transfer learning using pretrained YOLOv8 weights
-
-
 
 \---
 
@@ -141,18 +118,9 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 \- ONNX (Deployment)
 
 \- Raspberry Pi 4 (Target Edge Device)
-
-
-
 \---
 
-
-
-
-
 \## Installation
-
-
 
 ```bash
 
