@@ -1,0 +1,10 @@
+path: C:/Users/polys/Downloads/DFire_Final/data
+train: train/images
+val: val/images
+test: test/images
+
+nc: 3
+names:
+  0: cloud
+  1: smoke
+  2: fire

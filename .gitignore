@@ -1,0 +1,15 @@
+# Dataset
+data/
+
+# YOLO outputs
+runs/
+
+# Model checkpoints
+last.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
