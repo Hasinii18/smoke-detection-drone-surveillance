@@ -170,11 +170,13 @@ python test2.py
 
 \---
 
+##  Detection Results
 
+![Smoke Detection](smoke cloud results.jpeg)
+
+![Performance Metrics](smoke results.jpeg)
 
 \## Key Learnings
-
-
 
 \- Deep learning model training and optimization
 
@@ -192,8 +194,6 @@ python test2.py
 
 \## Future Work
 
-
-
 \- Deploy on actual drone hardware (DJI)
 
 \- Real-time RTSP video stream processing
@@ -202,13 +202,9 @@ python test2.py
 
 \- Improve precision using larger datasets
 
-
-
 \---
 
 \## License
-
-
 
 This project is intended for educational and research purposes.
 
@@ -217,8 +213,6 @@ This project is intended for educational and research purposes.
 
 
 \## Author
-
-
 
 **\*\*Lakshmi Sai Hasini B\*\***
 
@@ -229,7 +223,6 @@ IIT Palakkad
 📧 saihasini0618@gmail.com
 
 📧 hasinibasireddy007@gmail.com
-
 
 
 GitHub: https://github.com/Hasinii18
