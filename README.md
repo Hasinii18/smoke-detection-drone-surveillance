@@ -9,8 +9,6 @@ A real-time \*\*YOLOv8-based smoke detection system\*\* designed for early wildf
 \## Project Overview
 
 Wildfires can spread rapidly before they are detected. This project leverages the \*\*YOLOv8 object detection framework\*\* to identify smoke and fire from aerial images captured by drones, enabling faster detection and response.
-
-The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and achieved \*\*76.87% precision\*\* while distinguishing between \*\*Fire, Smoke, and Cloud\*\*.
 \---
 
 
@@ -19,13 +17,7 @@ The model was trained on a dataset of \*\*22,854 annotated aerial images\*\* and
 
 \- Real-time smoke and fire detection
 
-\- Three-class classification:
-
-&#x20; - 🔥 Fire
-
-&#x20; - 🌫️ Smoke
-
-&#x20; - ☁️ Cloud
+\- Three-class classification:Fire, smoke , cloud
 
 \- Built using YOLOv8
 
